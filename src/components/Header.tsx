@@ -32,7 +32,7 @@ const Header: React.FC = () => {
             <Palette className="h-6 w-6 text-primary-foreground" />
           </div>
           <div className="hidden sm:block">
-            <h1 className="text-xl font-bold text-foreground">ThemeForge</h1>
+            <h1 className="text-xl font-bold text-foreground">Hipster Theme Assignment</h1>
             <p className="text-xs text-muted-foreground">Multi-Theme Experience</p>
           </div>
         </Link>
