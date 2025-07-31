@@ -1,18 +1,37 @@
-# Welcome to your Lovable project
+# Welcome to your theme-spectrum (Hipster Assignment)
 
-## Project info
+#  theme-spectrum  App
 
-**URL**: https://lovable.dev/projects/f02edcf9-3cdb-4dbf-9220-48fe33270caf
+A modern, responsive, and animated multi-theme React application built with **TypeScript**, **React Router**, and **Context API**, supporting three visually distinct themes. Created as part of an assignment for Hipster.
 
-## How can I edit this code?
+##  Live Demo
 
-There are several ways of editing your application.
+[ Click here to view live (if hosted)](https://your-live-link.com)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f02edcf9-3cdb-4dbf-9220-48fe33270caf) and start prompting.
+##  Features
 
-Changes made via Lovable will be committed automatically to this repo.
+-  **Three Fully Customized Themes**  
+  - **Theme 1 (Minimalist)**: Light background, sans-serif fonts, clean spacing  
+  - **Theme 2 (Dark Mode)**: Sidebar layout, bold serif fonts, dark UI  
+  - **Theme 3 (Colorful)**: Card-based grid layout, playful Google fonts  
+
+- **Persistent Theme Switching** with `localStorage`  
+-  **Reusable Components**: Cards, Lists, Buttons, Headers  
+- ⚛ **React Router Integration**: Pages for Home, About, and Contact  
+-  **API Integration**: Product data from [Fake Store API](https://fakestoreapi.com/products)  
+-  **Context API** for global theme management  
+-  **Animations** for smooth theme transitions  
+-  **Fully Responsive** across mobile, tablet, and desktop  
+-  Built using **Styled-components / Tailwind / CSS Modules** (mention whichever you used)  
+-  **Security Measures** like sanitized API inputs, error boundaries, etc.  
+-  Developed in **TypeScript** for type safety and scalability  
+
+---
+
+
+
 
 **Use your preferred IDE**
 
@@ -60,14 +79,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/f02edcf9-3cdb-4dbf-9220-48fe33270caf) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
