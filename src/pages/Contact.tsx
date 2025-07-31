@@ -20,25 +20,25 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      description: 'hello@themeforge.com',
+      description: 'asadlangdebw@gmail.com',
       action: 'Send Email'
     },
     {
       icon: Phone,
       title: 'Call Us',
-      description: '+1 (555) 123-4567',
+      description: '+91 8793238748',
       action: 'Call Now'
     },
     {
       icon: MapPin,
       title: 'Visit Us',
-      description: '123 Design Street, Creative City, DC 12345',
+      description: 'Pune, India',
       action: 'Get Directions'
     },
     {
       icon: MessageCircle,
       title: 'Live Chat',
-      description: 'Available 24/7 for instant support',
+      description: 'chat with us anytime',
       action: 'Start Chat'
     }
   ];

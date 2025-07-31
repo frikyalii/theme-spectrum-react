@@ -15,17 +15,17 @@ const About: React.FC = () => {
 
   const team = [
     {
-      name: 'Alex Chen',
+      name: 'Asad ali',
       role: 'Lead Designer',
       description: 'Passionate about creating beautiful, accessible interfaces'
     },
     {
-      name: 'Sarah Kim',
+      name: 'Asad ali',
       role: 'Frontend Developer',
       description: 'Bringing designs to life with clean, performant code'
     },
     {
-      name: 'Marcus Johnson',
+      name: 'Asad ali',
       role: 'UX Researcher',
       description: 'Understanding user needs to drive design decisions'
     }
@@ -37,7 +37,7 @@ const About: React.FC = () => {
       <div className="space-y-16">
         {/* Hero */}
         <section className="text-center py-20">
-          <h1 className="text-5xl font-bold text-foreground mb-6">About ThemeForge</h1>
+          <h1 className="text-5xl font-bold text-foreground mb-6">About Hipster Assignment</h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             We're passionate about creating exceptional user experiences through innovative design systems
             that adapt to different contexts and user preferences.
