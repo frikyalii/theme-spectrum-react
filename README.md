@@ -1,12 +1,12 @@
-# Welcome to your theme-spectrum (Hipster Assignment)
+# Welcome to your Hipster theme assignment
 
-#  theme-spectrum  App
+# Hipster theme assignment
 
 A modern, responsive, and animated multi-theme React application built with **TypeScript**, **React Router**, and **Context API**, supporting three visually distinct themes. Created as part of an assignment for Hipster.
 
 ##  Live Demo
 
-[ Click here to view live (if hosted)](https://your-live-link.com)
+(https://theme-spectrum-react-5ah2cn8ov-frikyaliis-projects.vercel.app/))
 
 ---
 
